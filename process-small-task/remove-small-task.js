@@ -1,0 +1,3 @@
+function removeSmallTask(bigTaskIndex, smallTaskIndex) {
+
+}
